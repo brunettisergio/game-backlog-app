@@ -5,7 +5,7 @@ A full-stack mobile solution developed for the **WGU D424 Software Engineering C
 ## 🚀 Live Deployment
 The application is hosted via GitHub Pages. You can visit the landing page to view project details and download the Android installation file (APK).
 
-**[View Hosted Landing Page & Download APK](https://yourusername.github.io/your-repo-name/)**
+**[View Hosted Landing Page & Download APK](https://github.com/brunettisergio/game-backlog-app)**
 
 ---
 
