@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- High-Contrast Modern Dark Theme Palette -->
+    <color name="dark_background">#000000</color> <!-- Pure black for best contrast -->
+    <color name="dark_surface">#1A1A1A</color>
+    <color name="primary_accent">#D0BCFF</color> <!-- Brighter Purple -->
+    <color name="secondary_accent">#03DAC6</color>
+    <color name="text_primary">#FFFFFF</color> <!-- Pure white for readability -->
+    <color name="text_secondary">#CCCCCC</color> <!-- Lighter grey -->
+
+    <!-- High-Visibility Status Colors -->
+    <color name="status_finished">#448AFF</color> <!-- Brighter Blue -->
+    <color name="status_playing">#4CAF50</color>  <!-- Vibrant Green -->
+    <color name="status_pending">#FFD740</color>  <!-- Vivid Amber -->
+    <color name="status_dropped">#FF5252</color>  <!-- Bright Red -->
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Game Backlog</string>
+    <string name="search_hint">Search library...</string>
+    <string name="add_game_title">Add New Game</string>
+    <string name="completion_status_label">Completion Status</string>
+    <string name="genre_hint">Genre</string>
+    <string name="title_hint">Game Title</string>
+    <string name="platforms_hint">Platforms (Tap to select)</string>
+    <string name="delete_game">Delete Game</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="change_status">Change Status: </string>
+    <string name="report_title">Game Backlog Summary Report</string>
+    <string name="total_label">Total</string>
+    <string name="finished_label">Finished</string>
+    <string name="completion_label">Completion</string>
+</resources>

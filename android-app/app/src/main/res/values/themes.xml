@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Modern Dark Theme -->
+    <style name="Base.Theme.Backlogapp" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/primary_accent</item>
+        <item name="colorSecondary">@color/secondary_accent</item>
+        <item name="android:windowBackground">@color/dark_background</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+
+        <!-- Material 3 Surface coloring -->
+        <item name="colorSurface">@color/dark_surface</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+    </style>
+
+    <style name="Theme.Backlogapp" parent="Base.Theme.Backlogapp" />
+
+    <!-- Custom Dialog Theme -->
+    <style name="CustomDialogTheme" parent="Theme.Material3.Dark.Dialog">
+        <item name="android:windowBackground">@color/dark_surface</item>
+        <item name="colorSurface">@color/dark_surface</item>
+    </style>
+
+    <!-- Larger Text Styles -->
+    <style name="LargeToolbarTitle" parent="TextAppearance.Material3.HeadlineMedium">
+        <item name="android:textSize">28sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/primary_accent</item>
+    </style>
+</resources>
