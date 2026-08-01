@@ -44,7 +44,7 @@ The application is hosted via GitHub Pages. You can visit the landing page to vi
 3.  Install and launch the **Game Backlog** app.
 
 ### For Developers
-For detailed instructions on setting up the JDK, configuring the PostgreSQL database, and running the development environment, please refer to the **[Maintenance & Setup Guide](documentation/Maintenance_and_Setup_Guide.docx)**.
+For detailed instructions on setting up the JDK, configuring the PostgreSQL database, and running the development environment, please refer to the **Maintenance & Setup Guide**.
 
 ---
 
